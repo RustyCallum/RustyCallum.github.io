@@ -1,6 +1,6 @@
 # 👨‍💻 Aleksander Duda - Portfolio  
 
-🎓 Student informatyki na WIT | 🚀 Backend/Fullstack Developer z preferencją C#  
+🎓 Student informatyki na WIT | 🚀 Backend/Fullstack Developer
 
 🇬🇧 **[Kliknij tutaj, aby zobaczyć wersję angielską](README.md)**  
 
