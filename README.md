@@ -1,6 +1,6 @@
 # 👨‍💻 Aleksander Duda - Portfolio  
 
-🎓 Computer Science student at WIT | 🚀 Backend/Fullstack Developer with a preference for C#  
+🎓 Computer Science student at WIT | 🚀 Backend/Fullstack Developer
 
 🇵🇱 **[Click here for the Polish version](README_PL.md)**  
 
