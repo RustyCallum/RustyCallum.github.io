@@ -1,6 +1,6 @@
 # 👨‍💻 Aleksander Duda - Portfolio  
 
-🎓 Computer Science student at WIT | 🚀 Backend/Fullstack Developer
+🎓 Computer Science student at WIT | 🚀 Backend/Fullstack .NET Developer
 
 
 🇵🇱 **[Click here for the Polish version](README_PL.md)**  
@@ -28,4 +28,13 @@ A chat application with a React frontend and C# backend, mimicking Messenger. It
 ### 🧛‍♂️ VTES Keep  
 A tournament management tool for **Vampire: The Eternal Struggle (VTES)**, built with C# and Angular.  
 🔗 [Repository](https://github.com/RustyCallum/VTESKeeper) 
+
+
+### 💾 Redis Clone
+A simple in-memory key-value database inspired by Redis. Implements a custom TCP protocol, supports setting and reading keys, and handles multiple client connections. Written in C# (.NET 9) and includes a Dockerfile.
+🔗 [Repository](https://github.com/RustyCallum/CacheDb.Server)
+
+### 💲 PoS Server
+A basic Point-of-Sale (PoS) server. It processes QR codes containing required values, stores them as a temporary cart, and then saves the final purchase to the database while clearing the temporary data. Built in C# (.NET 9) with a Dockerfile included.
+🔗 [Repository](https://github.com/RustyCallum/PoSSystem)
 
