@@ -27,3 +27,11 @@ Aplikacja czatowa z frontendem w React i backendem w C#, przypominająca Messeng
 ### 🧛‍♂️ VTES Keep  
 Narzędzie do prowadzenia turniejów dla **Vampire: The Eternal Struggle (VTES)**, stworzone w C# i Angularze.  
 🔗 [Repozytorium](https://github.com/RustyCallum/VTESKeeper)
+
+### 💾 Redis Clone
+Prosta baza danych key-value inspirowana Redisem. Zawiera własny protokół TCP, obsługę ustawiania i pobierania kluczy oraz wielowątkową obsługę klientów. Napisana w C# (.NET 9) z dołączonym Dockerfile.
+🔗 [Repozytorium](https://github.com/RustyCallum/CacheDb.Server)
+
+### 💲 PoS Server
+Podstawowy serwer typu PoS (Point of Sale). Odbiera kody QR zawierające dane koszyka, zapisuje je jako koszyk tymczasowy, a następnie finalizuje zakup i czyści dane, przygotowując system dla kolejnego klienta. Zbudowany w C# (.NET 9) z Dockerfile.
+🔗 [Repozytorium](https://github.com/RustyCallum/PoSSystem)
